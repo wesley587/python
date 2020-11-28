@@ -1,2 +1,4 @@
 Telegram:
   -token = ''
+
+#precisa estar intalado o pacote pyyaml
