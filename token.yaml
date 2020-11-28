@@ -1,4 +1,3 @@
-Telegram:
-  -token = ''
+token = ''
 
 #precisa estar intalado o pacote pyyaml
