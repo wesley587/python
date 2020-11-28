@@ -1,9 +1,16 @@
 import json
 import requests
+import yaml
+
+with open("wesley587 /python") as file:
+    parser = yaml.load(file, Loader=yaml.FullLoader)
+    for x in parser.values():
+        Token = x
+file.close()
 
 
 def url_base():
-    token = '1447386898:AAGeNzBtrbLMn2MXAxoi1L0cS0kKDXxo0bg'
+    token = Token
     return f'http://api.telegram.org/bot{token}/'
 
 
