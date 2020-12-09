@@ -3,4 +3,4 @@
 ## **Heading** 2
 
 <!-- Strikethrough -->
-jsjsjjs
+~~this is text~~, this is Strikethrough
