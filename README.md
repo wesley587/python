@@ -5,7 +5,7 @@
 ~~this is text~~, this is Strikethrough
 
 <!-- Horizontal Rule -->
-## haaaaa
+# heading 2
 ---
 horizontal RUle
 ___
