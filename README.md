@@ -1,9 +1,10 @@
 <!-- Headings -->
-<!-- Strikethrough -->
-<!-- Horizontal Rule -->
 # Heading 1 ddjdjdjd
+<!-- Strikethrough -->
 
 ~~this is text~~is Strikethrough
+<!-- Horizontal Rule -->
+
 ---
 =# heading 2
 ---
