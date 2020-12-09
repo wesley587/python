@@ -2,5 +2,5 @@
 # __Heading__ 1 ddjdjdjd
 ## **Heading** 2
 
-<!-- Strikethough -->
+<!-- Strikethrough -->
 jsjsjjs
