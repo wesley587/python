@@ -4,3 +4,9 @@
 
 <!-- Strikethrough -->
 ~~this is text~~, this is Strikethrough
+
+<!-- Horizontal Rule -->
+
+---
+horizontal RUle
+___
