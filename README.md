@@ -1,3 +1,4 @@
 <!-- Headings -->
-# 
-## Heading 2
+<!-- Italics -->
+# __Heading__ 1
+## **Heading** 2
