@@ -11,3 +11,5 @@
 ---
 horizontal RUle
 ___
+<!-- Strong ->
+** this text** is strong
