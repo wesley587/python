@@ -44,6 +44,6 @@ ___
 
 <!-- Tables -->
 | nome | email |
-__________________
+_______ | __________
 | jonh | jonh@gmail.com |
 | car  | car@gmail.com |
