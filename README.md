@@ -41,3 +41,9 @@ ___
 ```python
  print('f')
 ```
+
+<!-- Tables -->
+| nome | email |
+__________________
+| jonh | jonh@gmail.com |
+| car  | car@gmail.com |
