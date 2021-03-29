@@ -2,7 +2,7 @@ import json
 import requests
 import yaml
 
-with open("wesley587 /python") as file:
+with open("Token.yml") as file: # Change path
     parser = yaml.load(file, Loader=yaml.FullLoader)
     for x in parser.values():
         Token = x
